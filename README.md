@@ -6,7 +6,7 @@ Generate APA-styled paginated PDFs using Markdown and LaTeX.
 
 ## Variants:
 
-- A CDN that allows you to write markdown, render a document, and save it as a PDF in the browser
+- A CDN that allows you to write markdown, render a document, and save it as a PDF in the browser (In development)
 - A CLI that allows you to convert a markdown file to a PDF in node.js
 
 ## Browser:
