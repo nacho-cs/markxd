@@ -22,14 +22,14 @@ Generate APA-styled paginated PDFs using Markdown and LaTeX.
 
 ```html
 <!DOCTYPE html>
-<script type="module" src="https://cdn.jsdelivr.net/gh/nacho-cs/markxd@main/markxd.min.js"></script>
+<script type="module" src="https://cdn.jsdelivr.net/gh/nacho-cs/markxd/markxd.min.js"></script>
 ```
 
 - After that simply create a `textarea` element containing the content you want to be rendered
 
 ```html
 <!DOCTYPE html>
-<script type="module" src="https://cdn.jsdelivr.net/gh/nacho-cs/markxd@main/markxd.min.js"></script>
+<script type="module" src="https://cdn.jsdelivr.net/gh/nacho-cs/markxd/markxd.min.js"></script>
 <textarea>
   ## Heading
 
